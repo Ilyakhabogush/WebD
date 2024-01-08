@@ -1,0 +1,512 @@
+.div, .div * {
+    box-sizing: border-box;
+    }
+.menu
+{
+  font-family: 'OpenSansHebrew-Regular', sans-serif;
+    color: #3a3a3a;
+    font-size: 20px;
+    padding-left: 5%;
+    height: 100px;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+.frame1 {
+  color: #3a3a3a;
+  }
+
+a{
+    color: #3a3a3a;
+}
+.headerG
+{
+  background-color: #d9d9d9;
+  color:#3a3a3a;
+  height: 150px;
+  margin: -8px;
+  
+  
+}
+footer{
+
+}
+
+.breadcrumbs
+{
+    font-family:'OpenSansHebrew-Extrabold', sans-serif;
+    color:#3a3a3a;
+    font-size: 24px;
+    padding-left: 6%;
+    padding-top: 6%;
+}
+.div {
+    background: #ffffff;
+    width: 1440px;
+    height: 2000px;
+    position: relative;
+    overflow: hidden;
+    }
+
+ .div2 {
+    }
+
+ ._1 {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    align-items: center;
+    justify-content: center;
+    width: 232px;
+    height: 703px;
+    position: absolute;
+    left: 212px;
+    top: 1167px;
+    }
+
+ ._12 {
+    flex-shrink: 0;
+    width: 232px;
+    height: 232px;
+    position: relative;
+    }
+
+ ._13 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div3 {
+    color: #3a3a3a;
+    text-align: center;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 232px;
+    height: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 55px;   
+   }
+
+ ._2 {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    align-items: center;
+    justify-content: center;
+    height: 633.74px;
+    position: absolute;
+    left: 618px;
+    top: 1179.52px;
+    }
+
+ ._22 {
+    flex-shrink: 0;
+    width: 232px;
+    height: 232px;
+    position: relative;
+    }
+
+ ._23 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div4 {
+    color: #3a3a3a;
+    text-align: center;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 232px;
+    display: flex;
+    align-items: center;
+    justify-content: center}
+
+ ._3 {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    align-items: center;
+    justify-content: center;
+    height: 633.74px;
+    position: absolute;
+    left: 997px;
+    top: 1179.52px;
+    }
+
+ ._32 {
+    flex-shrink: 0;
+    width: 232px;
+    height: 232px;
+    position: relative;
+    }
+
+ ._33 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div5 {
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1102px;
+    top: 424px;
+    }
+
+ .div6 {
+    flex-shrink: 0;
+    width: 234px;
+    height: 234px;
+    position: relative;
+    }
+
+ .div7 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    width: 124px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div8 {
+    color: #3a3a3a;
+    text-align: center;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 232px;
+    height: 318px;
+    display: flex;
+    align-items: center;
+    justify-content: center}
+
+ .div9 {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 770px;
+    top: 424px;
+    }
+
+ .div10 {
+    flex-shrink: 0;
+    width: 232px;
+    height: 232px;
+    position: relative;
+    }
+
+ .div11 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    width: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div12 {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 438px;
+    top: 424px;
+    }
+
+ .div13 {
+    color: #3a3a3a;
+    text-align: center;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div14 {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 106px;
+    top: 424px;
+    }
+
+ .div15 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .line-4 {
+    border-style: solid;
+    border-color: rgba(57, 57, 57, 0.40);
+    border-width: 5px 0 0 0;
+    width: 385px;
+    height: 0px;
+    position: absolute;
+    left: 523px;
+    top: 361px;
+    transform-origin: 0 0;
+    transform: rotate(-0.149deg) scale(1, 1);
+    }
+
+ .We {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSansHebrew-Regular', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    position: absolute;
+    left: 554px;
+    top: 296px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div17 {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: absolute;
+    left: 100px;
+    top: 180px;
+    }
+
+ .frame-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 337px;
+    position: relative;
+    }
+
+ .coolicon {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    overflow: visible;
+    }
+
+ .div18 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSansHebrew-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 11px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div19 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSansHebrew-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 96px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .div20 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSansHebrew-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 104px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start}
+
+ .rectangle-7 {
+    background: #d9d9d9;
+    width: 1440px;
+    height: 160px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+
+ .div21 {
+    display: flex;
+    flex-direction: row;
+    gap: 324px;
+    align-items: center;
+    justify-content: center;
+    width: 1239px;
+    height: 52px;
+    position: absolute;
+    left: 100px;
+    top: 62px;
+    }
+
+ .div22 {
+    flex-shrink: 0;
+    width: 155.53px;
+    height: 52.35px;
+    position: relative;
+    transform: translate(0px, -52.35px);
+    overflow: visible;
+    }
+
+ .header {
+    flex-shrink: 0;
+    width: 759px;
+    height: 33px;
+    position: static;
+    }
+
+ .div23 {
+    width: 26px;
+    height: 20px;
+    position: absolute;
+    right: 0.02%;
+    left: 97.88%;
+    width: 2.1%;
+    bottom: 31.73%;
+    top: 29.81%;
+    height: 38.46%;
+    overflow: visible;
+    }
+
+ .div25 {
+    padding: 0px 12px 0px 12px;
+    display: flex;
+    flex-direction: row;
+    gap: 54px;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    left: 479.76px;
+    top: 9.5px;
+    }
+
+ .div26 {
+    color: #3a3a3a;
+    text-align: left;
+    font-family: 'OpenSans-CondensedRegular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+.footer
+{
+  background-color: #d9d9d9;
+  color:#3a3a3a;
+  height: 150px;
+}
+.menu2 
+{
+  font-family: 'OpenSansHebrew-Regular', sans-serif;
+    color: #3a3a3a;
+    font-size: 20px;
+    padding-left: 5%;
+    height: 100px;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo2 
+{
+    text-align: left;
+    color: #3a3a3a;
+}
+.frame3 
+{
+    text-align: center;
+    display: flex;
+    padding-right: 5%;
+    gap: 54px;
+}
+.fa
+{
+  color:#3a3a3a;
+  text-decoration: none;
+}
+.athor
+{
+  float: left;
+  margin-left: 75px;
+}
+.Icons
+{
+  float: right;
+  gap: 10px;
+  margin-right: 70px;
+}
+.footer2
+{
+  background-color: #d9d9d9;
+  color:#3a3a3a;
+}
